@@ -6,7 +6,6 @@ rad = math.radians(ang)
 sinx = math.sin(rad)
 cosx = math.cos(rad)
 tanx = math.tan(rad)
-
 trico = input("Which one do you want to calculate? (sin, cos, tan): ")
 
 if trico == "sin":
